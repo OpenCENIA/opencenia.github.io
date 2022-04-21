@@ -3,11 +3,16 @@ title: Emotion in Tweets in Spanish
 summary: ""
 tags:
 - deep learning
-- ai
 - spanish
 - dataset
 - emotion
 - sentiment
+- affect
+- tweets
+- twitter
+- evaluation
+- dataset
+- shared task
 date: "2016-04-27T00:00:00Z"
 authors:
 - Saif M. Mohammad

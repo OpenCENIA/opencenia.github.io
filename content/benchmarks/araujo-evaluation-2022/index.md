@@ -21,6 +21,14 @@ url_code: https://github.com/OpenCENIA/Spanish-Sentence-Evaluation
 # url_slides: 
 # url_video:
 
+tags:
+- evaluation
+- spanish
+- dataset
+- benchmark
+- language model
+- nlp
+
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.07571

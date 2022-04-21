@@ -3,8 +3,8 @@ title: Natural Language Processing
 summary: "Course of Natural Language Processing at DCC UChile"
 tags:
 - deep learning
-- ai
 - nlp
+- course
 date: "2016-04-27T00:00:00Z"
 authors: Felipe Bravo-Marquez
 # Optional external URL for project (replaces project detail page).

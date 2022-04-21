@@ -5,7 +5,7 @@ tags:
 - dataset
 - spanish
 - deep learning
-- ai
+- language model
 date: "2016-04-27T00:00:00Z"
 authors:
 - José Cañete

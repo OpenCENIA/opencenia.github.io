@@ -7,6 +7,9 @@ authors:
 - José Cañete
 - Cristian Cardellino
 - FastText team
+tags:
+- word embeddings
+- language model
 publication_types: ["1"]
 abstract:
 featured: false

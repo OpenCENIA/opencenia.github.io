@@ -2,8 +2,9 @@
 title: Data Mining
 summary: ""
 tags:
-- deep learning
-- ai
+- data mining
+- course
+  
 date: "2016-04-27T00:00:00Z"
 authors:
 - Barbara Poblete

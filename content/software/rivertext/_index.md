@@ -2,8 +2,9 @@
 title: RiverText
 summary: "RiverText: Machine Learning for Text Streams"
 tags:
-- ai
+- software
 - machine learning
+- text streams
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

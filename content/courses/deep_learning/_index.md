@@ -3,7 +3,7 @@ title: Deep Learning
 summary: "Curso introductorio (en español) al área de aprendizaje basado en redes neuronales profundas, comúnmente conocida como Deep Learning. Durante el curso aprenderán la teoría detrás de los modelos de Deep Learning, su funcionamiento y usos posibles. Serán capaces de construir y entrenar modelos para resolver problemas reales."
 tags:
 - deep learning
-- ai
+- course
 date: "2016-04-27T00:00:00Z"
 authors:
 - Jorge Pérez

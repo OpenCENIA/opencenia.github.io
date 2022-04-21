@@ -3,9 +3,10 @@ title: Semantic Change in Spanish
 summary: "DWUG ES: Diachronic Word Usage Graphs for Spanish"
 tags:
 - deep learning
-- ai
 - dataset
 - spanish
+- semantic change
+- shared task
 date: "2016-04-27T00:00:00Z"
 authors:
 - Frank D. Zamora-Reina

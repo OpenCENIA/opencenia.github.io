@@ -3,7 +3,15 @@ title: "GLUES: General Language Understanding Evaluation in Spanish"
 summary: "The GLUES Benchmark aims to collect different sources of tasks for evaluating Spanish Language Models in a unified fashion in order to develop and allow the growth of the Spanish NLP Community."
 tags:
 - deep learning
-- ai
+- language model
+- evaluation
+- benchmark
+- dataset
+- spanish
+- BERT
+- BETO
+- nlp
+
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

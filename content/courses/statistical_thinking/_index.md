@@ -6,7 +6,9 @@ The course introduces the fundamentals of statistical thinking, which are descri
 authors: Felipe Bravo-Marquez
 tags:
 - deep learning
-- ai
+- statistics
+- course
+- statistical thinking
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
