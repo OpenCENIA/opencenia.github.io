@@ -7,24 +7,24 @@ main:
   - name: Software
     url: software
     weight: 10
+  - name: Models
+    url: models
+    weight: 15
+  - name: Datasets
+    url: datasets
+    weight: 20
+  - name: Shared Tasks
+    url: shared_tasks
+    weight: 30
   - name: Benchmarks
     url: benchmarks
-    weight: 20
+    weight: 40
   # - name: People
   #   url: people
   #   weight: 5
-  - name: Datasets
-    url: datasets
-    weight: 40
-  - name: Models
-    url: models
-    weight: 50
   - name: Courses
     url: courses
     weight: 60
   # - name: Contact
   #   url: contact
   #   weight: 70
-  - name: Shared Tasks
-    url: shared_tasks
-    weight: 45

@@ -68,7 +68,7 @@ user_groups:
   - Researchers
 ---
 
-**OpenCENIA** is the [CENIA](www.cenia.cl) initiative that seeks to create open and free resources for the entire community. It is divided into 5 types of resources or initiatives:
+**OpenCENIA** is the [CENIA](www.cenia.cl) initiative that seeks to create open and free resources for the entire community. It is divided into 4 types of resources or initiatives:
 
 1. [Software](/software)
 2. [Models](/models)
