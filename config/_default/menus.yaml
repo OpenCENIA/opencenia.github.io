@@ -10,9 +10,9 @@ main:
   - name: Benchmarks
     url: benchmarks
     weight: 20
-  - name: People
-    url: people
-    weight: 5
+  # - name: People
+  #   url: people
+  #   weight: 5
   - name: Datasets
     url: datasets
     weight: 40
@@ -22,9 +22,9 @@ main:
   - name: Courses
     url: courses
     weight: 60
-  - name: Contact
-    url: contact
-    weight: 70
+  # - name: Contact
+  #   url: contact
+  #   weight: 70
   - name: Shared Tasks
     url: shared_tasks
     weight: 45
