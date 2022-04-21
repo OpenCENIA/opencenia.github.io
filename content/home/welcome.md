@@ -4,11 +4,11 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: hero # See https://wowchemy.com/docs/page-builder/
+active: false
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  OpenCENIA
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**OpenCENIA** es la iniciativa de [CENIA](https://www.cenia.cl/) que busca crear recursos abiertos y gratuitos para toda la comunidad.
