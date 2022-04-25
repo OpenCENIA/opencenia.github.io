@@ -7,3 +7,4 @@ public/
 assets/jsconfig.json
 
 .DS_Store
+cache
