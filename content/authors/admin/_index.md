@@ -72,9 +72,16 @@ user_groups:
 
 1. [Software](/software)
 2. [Models](/models)
-3. Data:
+   1. [NLP](/models/nlp)
+   2. [Vision](/models/vision)
+3. [Data](/data):
    1. [Datasets](/datasets)
    2. [Shared Tasks](/shared_tasks)
    3. [Benchmarks](/benchmarks)
-4. [Courses](/courses)
+4. [Education](/education)
+   1. [Courses](/education/courses)
+   2. [Talks](/education/talks)
+   3. [Podcast](/education/podcast)
+   4. [Tutorials](/education/tutorials)
+   5. [Interactive Demos](/education/demos)
 

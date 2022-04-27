@@ -6,25 +6,72 @@
 main:
   - name: Software
     url: software
-    weight: 10
+    weight: 100
+  
   - name: Models
-    url: models
-    weight: 15
-  - name: Datasets
-    url: datasets
+    identifier: models
+    weight: 200
+
+  - name: NLP
+    parent: models
+    url: models/nlp
+    weight: 10
+  
+  - name: Vision
+    parent: models
+    url: models/vision
     weight: 20
+
+  - name: Data
+    identifier: data
+    weight: 300
+
+  - name: Datasets
+    parent: data
+    url: data/datasets
+    weight: 10
+
   - name: Shared Tasks
-    url: shared_tasks
-    weight: 30
+    parent: data
+    url: data/shared_tasks
+    weight: 20
+
   - name: Benchmarks
-    url: benchmarks
-    weight: 40
+    parent: data
+    url: data/benchmarks
+    weight: 30
   # - name: People
   #   url: people
   #   weight: 5
-  - name: Courses
-    url: courses
-    weight: 60
+  - name: Education
+    url: education
+    identifier: education
+    weight: 400
   # - name: Contact
   #   url: contact
   #   weight: 70
+  - name: Courses
+    parent: education
+    url: education/courses
+    weight: 10
+
+  - name: Talks
+    parent: education
+    url: education/talks
+    weight: 20
+
+  - name: Podcast
+    parent: education
+    url: education/podcast
+    weight: 30
+
+  - name: Tutorials
+    parent: education
+    url: education/tutorials
+    weight: 40
+  
+  - name: Interactive Demos
+    parent: education
+    url: education/demos
+    weight: 50
+
