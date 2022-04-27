@@ -1,6 +1,6 @@
 ---
 title: Natural Language Processing
-summary: "Course of Natural Language Processing at DCC UChile"
+summary: "The purpose of the Natural Language Processing course is to introduce students to the discipline of natural language processing (NLP). The student will use this method to solve tasks, with delimited solutions regarding their relevance and size. This discipline studies the design of methods and algorithms that receive as input and/or produce as output data in the form of natural language (e.g., text, voice). The course focuses on text processing although applications in speech processing are mentioned."
 tags:
 - deep learning
 - nlp

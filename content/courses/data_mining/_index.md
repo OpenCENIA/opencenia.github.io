@@ -1,6 +1,9 @@
 ---
 title: Data Mining
-summary: ""
+summary: 'At the end of this course, students are expected to generate knowledge from various types of data, applying the process of "knowledge discovery in databases", with emphasis on the main techniques of Data Mining (data cleaning, classification, clustering). , association analysis, etc.).
+The students will have the opportunity to identify and select the basic analysis techniques that, according to the criteria presented in the course, are best applied to the objective of generating knowledge, according to the domain of the problem proposed. For this, cases that incorporate problems and data from areas as diverse as, for example, Astronomy, Economics, Medicine, Marketing, Social Networks, among others, will be analyzed. It is also expected to bring the students closer to the problem of the analysis of large volumes of data and that they can acquire more advanced techniques on these topics.
+It is an introductory course, where the examples are referential and the students for their semester work choose an area of ​​interest, to which the standard methodology of data mining is applied.
+The students will identify the problem of overfitting in information processing models that prevent an objective analysis of the data. Finally, they will develop ethical skills for professional performance in the field of Data Engineering.'
 tags:
 - data mining
 - course

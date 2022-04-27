@@ -1,6 +1,6 @@
 ---
 title: Deep Learning
-summary: "Curso introductorio (en español) al área de aprendizaje basado en redes neuronales profundas, comúnmente conocida como Deep Learning. Durante el curso aprenderán la teoría detrás de los modelos de Deep Learning, su funcionamiento y usos posibles. Serán capaces de construir y entrenar modelos para resolver problemas reales."
+summary: "The objective of the course is to introduce students to the area of learning based on deep neural networks, commonly known as Deep Learning. The techniques used in this area have been fundamental in the latest advances in Artificial Intelligence, particularly in tasks such as natural language processing and computer vision. During the course, the student will be exposed to the theory behind Deep Learning models, will understand how they work, their possible uses, and will be able to build and train models that allow them to solve real problems."
 tags:
 - deep learning
 - course
