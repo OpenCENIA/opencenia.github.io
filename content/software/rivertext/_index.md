@@ -1,6 +1,6 @@
 ---
 title: RiverText
-summary: "RiverText: Machine Learning for Text Streams"
+summary: "RiverText: Machine Learning for Text Streams."
 tags:
 - software
 - machine learning
